@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 <figure>
   <img src="http://octodex.github.com/images/manufacturetocat.png" width="45%" />
-  <figcaption>whereas the digital technologies may contribute in oil and gas</figcaption>
+  <figcaption>whereas oil and gas benefit from</figcaption>
 </figure>
