@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <p align="middle">
   <img src="http://octodex.github.com/images/Fintechtocat.png" width="45%" /> 
+  <figcaption>16-Bit RGB Image</figcaption>
   <img src="http://octodex.github.com/images/manufacturetocat.png" width="45%" />
 </p>
 
