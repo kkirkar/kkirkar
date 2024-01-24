@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![](http://octodex.github.com/images/Manufacturetocat.png)![](http://octodex.github.com/images/Fintechtocat.png)
+![](http://octodex.github.com/images/Manufacturetocat.png)
+
+
+![](http://octodex.github.com/images/Fintechtocat.png)
