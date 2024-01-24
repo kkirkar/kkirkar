@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="middle">
-  <img src="http://octodex.github.com/images/Fintechtocat.png" width="45%" /> 
-  <figcaption>16-Bit RGB Image</figcaption>
-  <img src="http://octodex.github.com/images/manufacturetocat.png" width="45%" />
-</p>
+<figure>
+  <img src="http://octodex.github.com/images/Fintechtocat.png" width="45%" />
+  <figcaption>I plan to propose data-driven solutions</figcaption>
+</figure>
 
+<figure>
+  <img src="http://octodex.github.com/images/manufacturetocat.png" width="45%" />
+  <figcaption>whereas the digital technologies may contribute in oil and gas</figcaption>
+</figure>
