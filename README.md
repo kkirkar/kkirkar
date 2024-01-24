@@ -5,6 +5,6 @@
 </p>
 
 <p align="center">
-  <strong>My aim is to be able to propose data-driven solutions, whereas operations benefit from.</strong>
+  <strong>My aim is to be able to propose data-driven solutions, whereas operations can benefit from.</strong>
 </p>
 
