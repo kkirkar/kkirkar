@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="middle">
+  <img src="http://octodex.github.com/images/manufacturetocat.png" width="50%" />
+  <img src="http://octodex.github.com/images/Fintechtocat.png)" width="50%" /> 
+</p>
 
-![](http://octodex.github.com/images/manufacturetocat.png)![](http://octodex.github.com/images/Fintechtocat.png)
