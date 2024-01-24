@@ -5,6 +5,6 @@
 </p>
 
 <p align="center">
-  <strong>I plan to propose data-driven solutions</strong> &emsp; <strong>whereas oil and gas benefit from</strong>
+  <strong>My aim is to be able to propose data-driven solutions</strong> &emsp; <strong>whereas oil and gas benefit from</strong>
 </p>
 
