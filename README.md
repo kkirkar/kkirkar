@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <p align="middle">
   <img src="http://octodex.github.com/images/manufacturetocat.png" width="50%" />
-  <img src="http://octodex.github.com/images/Fintechtocat.png)" width="50%" /> 
+  <img src="http://octodex.github.com/images/Fintechtocat.png" width="50%" /> 
 </p>
 
