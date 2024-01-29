@@ -2,7 +2,7 @@
 
 🛢️ A Petroleum and Natural Gas Engineering student with a knack for coding and problem-solving, driven by a passion for digital transformation within the oil and gas industry.
 
-🧐 Enthusiastic about using up-to-date digital tech to tackle engineering challenges and simplify tasks through automation, and get things done smarter.
+🧐 Enthusiastic about utilizing digital tools to tackle engineering challenges and simplify tasks through automation, and get things done smarter.
 
 🧠 Currently exploring deep learning frameworks: PyTorch and Keras
 
